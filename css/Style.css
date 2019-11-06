@@ -366,6 +366,52 @@ main .site-content .sidebar .popular-post h2{
     padding-top: 8rem;
 }
 
+main .site-content .sidebar .popular-post .post-info{
+    padding: .4rem .1rem !important;
+    bottom: 0rem !important;
+    left: 1.5rem !important;
+    border-radius: 0rem !important;
+    background: var(--white) !important;
+    width: 100%;
+}
+
+main .site-content .sidebar .popular-post .post-title a{
+    font-size: 1rem;
+}
+
+main .site-content .sidebar .newsletter{
+    padding-top: 10rem;
+}
+
+main .site-content .sidebar .newsletter .form-element{
+    padding: .5rem 2rem;
+}
+
+main .site-content .sidebar .newsletter .form-element .input-element{
+    width: 80%;
+    height: 1.9rem;
+    padding: .3rem .5rem;
+    font-family: var(--Lexend);
+    font-size: 1rem;
+}
+
+main .site-content .sidebar .newsletter .form-element .form-btn{
+    border-radius: 0;
+    padding: .8rem 32%;
+    margin: 1rem 0;
+    background: var(--sky);
+}
+
+main .site-content .sidebar .popular-tags{
+    padding: 4rem 0;
+}
+
+main .site-content .sidebar .popular-tags .tag{
+    background: var(--sky);
+    padding: .4rem 1rem;
+    border-radius: 3rem;
+    margin: .4rem .6rem;
+}
 /*-- --------X---------Sidebar --------X-------- --*/
 
 
